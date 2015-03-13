@@ -1,0 +1,5 @@
+---
+base: http://192.168.1.103
+default:
+  jdk: /fs/jdk/jdk-7u75-linux-x64.tar.gz
+  tomcat: /fs/tomcat/apache-tomcat-7.0.59.tar.gz
